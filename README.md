@@ -1,4 +1,4 @@
-# terminal-quote
+# terminal-quote (arch linux)
 will show a quote when terminal starts (console) arch linux.
 single line install code
 '''
